@@ -8,7 +8,7 @@
 
 [![](https://img.shields.io/sourceforge/dw/http-injector-plus.svg)](https://sourceforge.net/projects/http-injector-plus/files/latest/download)
 
-# respite HTTP injector
+# Description
 a powerful but simple tool to modify HTTP Proxy CONNECT requests and response to bypass ISP censorship and firewalls, purely coded in Java.
 
 Free to use but comes with no warranty.
